@@ -1,0 +1,6 @@
+from psychopy import visual, event
+
+
+my_window = visual.Window(size = (400,400)
+event.waitKeys()
+my_window.close()
